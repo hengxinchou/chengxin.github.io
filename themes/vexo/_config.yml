@@ -20,15 +20,15 @@ highlight:
 catalog: true
 
 # donate
-donate: true
+donate: false
 
 # qrcode
-qrcode: true
+qrcode: false
 
 # comment
 # you can set gitment, uyan or disqus
 
-comment: gitment
+# comment: gitment
 
 # gitment config
 gitment_owner: hengxinchou
